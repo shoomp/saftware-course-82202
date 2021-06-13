@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"arrays","c":"TwoArr","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"arrays","c":"TwoArr","l":"TwoArr()","u":"%3Cinit%3E()"}];updateSearchResults();
