@@ -29,6 +29,10 @@ public class Zoo {
 				if (a instanceof Swimmer) {
 					((Swimmer) a).swim();
 				}
+				if (a instanceof AdvanceFlyer) {
+					((AdvanceFlyer) a).Jump();
+					((AdvanceFlyer) a).land();
+				}
 			}
 			System.out.println();
 		}

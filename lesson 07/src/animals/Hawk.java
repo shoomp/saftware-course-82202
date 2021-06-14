@@ -1,6 +1,6 @@
 package animals;
 
-public class Hawk extends Bird {
+public class Hawk extends Bird implements Flyer{
 
 	public void speak() {
 
