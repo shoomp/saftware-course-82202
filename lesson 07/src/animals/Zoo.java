@@ -25,9 +25,11 @@ public class Zoo {
 				}
 				if (a instanceof Flyer) {
 					((Flyer) a).fly();
+					((Flyer) a).glide();
 				}
 				if (a instanceof Swimmer) {
 					((Swimmer) a).swim();
+					((Swimmer) a).dive();
 				}
 				if (a instanceof AdvanceFlyer) {
 					((AdvanceFlyer) a).Jump();
