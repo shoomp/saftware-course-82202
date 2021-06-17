@@ -19,7 +19,7 @@ public class Penguin extends Mammal implements AdvanceFlyer {
 	}
 	@Override
 	public void land() {
-		System.out.println("I'm landind down //");
+		System.out.println("I'm landing down //");
 		
 	}
 	@Override
